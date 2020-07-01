@@ -1,0 +1,10 @@
+{
+  "user": "monyxie",
+  "token": "11fb3244c7ca7f463e8616a1b476bd6533",
+  "url": "http://192.168.19.18:8080",
+  "jobs": [
+    "sd_backend-develop",
+    "sd_backend-test",
+    "sd_backend-production"
+  ]
+}
