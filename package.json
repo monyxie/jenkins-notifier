@@ -5,7 +5,7 @@
   "author": "Mony Xie <monyxie@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "lodash": "^4.17.21",
     "node-notifier": "^8.0.1"
   }
